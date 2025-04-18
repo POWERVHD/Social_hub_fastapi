@@ -35,7 +35,7 @@ def get_session():
 
 
 
-#THIS IS supabase db SETUP 
+#THIS IS supabase db SETUP using dotenv not the pydantic validation model
 
 # import os
 # from dotenv import load_dotenv
