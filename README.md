@@ -90,7 +90,7 @@ pytest
 
 ## ⚙ TO DO / Future Improvements
 
-- Deploy to production (Heroku, AWS, etc.)
+- 🚀 Already deployed on DigitalOcean (but free credits said goodbye 😅) – exploring alternatives like Heroku, AWS, etc.
 - Add frontend (React/Vue or Jinja2)
 - Implement refresh token
 - Add comments support
