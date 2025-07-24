@@ -123,3 +123,4 @@ See the [LICENSE](LICENSE) file for details.
 
 Made by [KSHITIJ PRASAD]  
 GitHub: [https://github.com/POWERVHD/Social_hub_fastapi](https://github.com/POWERVHD/Social_hub_fastapi)
+X(Twitter): [https://x.com/kshitijprasad5](https://x.com/kshitijprasad5)
