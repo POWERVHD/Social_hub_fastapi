@@ -100,18 +100,6 @@ pytest
 
 ---
 
-## 🙌 Contributing
-
-Contributions are welcome!  
-To contribute:
-
-1. Fork the repo  
-2. Create a new branch  
-3. Make your changes  
-4. Submit a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.  
