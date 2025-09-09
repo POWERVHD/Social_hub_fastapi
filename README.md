@@ -109,7 +109,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-Made by [KSHITIJ PRASAD]  
+Made by KSHITIJ PRASAD 
 - GitHub: [https://github.com/POWERVHD/Social_hub_fastapi](https://github.com/POWERVHD/Social_hub_fastapi)  
 - Twitter: [https://x.com/kshitijprasad5](https://x.com/kshitijprasad5)  
 - Gmail: kshitijprasad6@gmail.com
